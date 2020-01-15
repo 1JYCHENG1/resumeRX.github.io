@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fangfang Yuan | 钟任新 · 学术主页</title>
+    <link>/authors/fangfang-yuan/</link>
+      <atom:link href="/authors/fangfang-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fangfang Yuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Fangfang Yuan</title>
+      <link>/authors/fangfang-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting journey time distribution with consideration to abnormal traffic conditions</title>
+      <link>/publication/forecasting-journey-time-distribution/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/forecasting-journey-time-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Travel Time Prediction Model Based on Functional Data Analysis</title>
+      <link>/publication/an-online-travel-time-prediction/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/an-online-travel-time-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
