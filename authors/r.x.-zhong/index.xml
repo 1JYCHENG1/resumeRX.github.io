@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R.x. Zhong | 钟任新 · 学术主页</title>
-    <link>/authors/r.x.-zhong/</link>
-      <atom:link href="/authors/r.x.-zhong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/authors/r.x.-zhong/</link>
+      <atom:link href="https://resumeRX.github.io/authors/r.x.-zhong/index.xml" rel="self" type="application/rss+xml" />
     <description>R.x. Zhong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>R.x. Zhong</title>
-      <link>/authors/r.x.-zhong/</link>
+      <link>https://resumeRX.github.io/authors/r.x.-zhong/</link>
     </image>
     
     <item>
       <title>A neuro-dynamic programming approach for perimeter control of two urban regions with macroscopic fundamental diagrams</title>
-      <link>/publication/a-neuro-dynamic-programming-approach/</link>
+      <link>https://resumeRX.github.io/publication/a-neuro-dynamic-programming-approach/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/a-neuro-dynamic-programming-approach/</guid>
+      <guid>https://resumeRX.github.io/publication/a-neuro-dynamic-programming-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust perimeter control for two urban regions with macroscopic fundamental diagrams——A control-Lyapunov function approach</title>
-      <link>/publication/robust-perimeter-control-for-two-urban-regions/</link>
+      <link>https://resumeRX.github.io/publication/robust-perimeter-control-for-two-urban-regions/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/robust-perimeter-control-for-two-urban-regions/</guid>
+      <guid>https://resumeRX.github.io/publication/robust-perimeter-control-for-two-urban-regions/</guid>
       <description></description>
     </item>
     

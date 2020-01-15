@@ -2,685 +2,685 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | 钟任新 · 学术主页</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/tags/</link>
+      <atom:link href="https://resumeRX.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://resumeRX.github.io/tags/</link>
     </image>
     
     <item>
       <title>Dynamic User Equilibrium</title>
-      <link>/tags/dynamic-user-equilibrium/</link>
+      <link>https://resumeRX.github.io/tags/dynamic-user-equilibrium/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/dynamic-user-equilibrium/</guid>
+      <guid>https://resumeRX.github.io/tags/dynamic-user-equilibrium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endogenous Time-Varying Delay</title>
-      <link>/tags/endogenous-time-varying-delay/</link>
+      <link>https://resumeRX.github.io/tags/endogenous-time-varying-delay/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/endogenous-time-varying-delay/</guid>
+      <guid>https://resumeRX.github.io/tags/endogenous-time-varying-delay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macroscopic Fundamental Diagram</title>
-      <link>/tags/macroscopic-fundamental-diagram/</link>
+      <link>https://resumeRX.github.io/tags/macroscopic-fundamental-diagram/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/macroscopic-fundamental-diagram/</guid>
+      <guid>https://resumeRX.github.io/tags/macroscopic-fundamental-diagram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saturated State And Input Constraints</title>
-      <link>/tags/saturated-state-and-input-constraints/</link>
+      <link>https://resumeRX.github.io/tags/saturated-state-and-input-constraints/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/saturated-state-and-input-constraints/</guid>
+      <guid>https://resumeRX.github.io/tags/saturated-state-and-input-constraints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous Route Choice And Departure Time Choice</title>
-      <link>/tags/simultaneous-route-choice-and-departure-time-choice/</link>
+      <link>https://resumeRX.github.io/tags/simultaneous-route-choice-and-departure-time-choice/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/simultaneous-route-choice-and-departure-time-choice/</guid>
+      <guid>https://resumeRX.github.io/tags/simultaneous-route-choice-and-departure-time-choice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biological Neural Networks</title>
-      <link>/tags/biological-neural-networks/</link>
+      <link>https://resumeRX.github.io/tags/biological-neural-networks/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/biological-neural-networks/</guid>
+      <guid>https://resumeRX.github.io/tags/biological-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost Function</title>
-      <link>/tags/cost-function/</link>
+      <link>https://resumeRX.github.io/tags/cost-function/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/cost-function/</guid>
+      <guid>https://resumeRX.github.io/tags/cost-function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical Model</title>
-      <link>/tags/mathematical-model/</link>
+      <link>https://resumeRX.github.io/tags/mathematical-model/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/mathematical-model/</guid>
+      <guid>https://resumeRX.github.io/tags/mathematical-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonlinear Dynamical Systems</title>
-      <link>/tags/nonlinear-dynamical-systems/</link>
+      <link>https://resumeRX.github.io/tags/nonlinear-dynamical-systems/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/nonlinear-dynamical-systems/</guid>
+      <guid>https://resumeRX.github.io/tags/nonlinear-dynamical-systems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimal Control</title>
-      <link>/tags/optimal-control/</link>
+      <title>Optimal control</title>
+      <link>https://resumeRX.github.io/tags/optimal-control/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/optimal-control/</guid>
+      <guid>https://resumeRX.github.io/tags/optimal-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>/tags/programming/</link>
+      <link>https://resumeRX.github.io/tags/programming/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/programming/</guid>
+      <guid>https://resumeRX.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vehicle Dynamics</title>
-      <link>/tags/vehicle-dynamics/</link>
+      <link>https://resumeRX.github.io/tags/vehicle-dynamics/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/vehicle-dynamics/</guid>
+      <guid>https://resumeRX.github.io/tags/vehicle-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Process</title>
-      <link>/tags/gaussian-process/</link>
+      <link>https://resumeRX.github.io/tags/gaussian-process/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/gaussian-process/</guid>
+      <guid>https://resumeRX.github.io/tags/gaussian-process/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generalized cross validation</title>
-      <link>/tags/generalized-cross-validation/</link>
+      <link>https://resumeRX.github.io/tags/generalized-cross-validation/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/generalized-cross-validation/</guid>
+      <guid>https://resumeRX.github.io/tags/generalized-cross-validation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hyper-parameter estimation</title>
-      <link>/tags/hyper-parameter-estimation/</link>
+      <link>https://resumeRX.github.io/tags/hyper-parameter-estimation/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/hyper-parameter-estimation/</guid>
+      <guid>https://resumeRX.github.io/tags/hyper-parameter-estimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kalman filter and smoother</title>
-      <link>/tags/kalman-filter-and-smoother/</link>
+      <link>https://resumeRX.github.io/tags/kalman-filter-and-smoother/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/kalman-filter-and-smoother/</guid>
+      <guid>https://resumeRX.github.io/tags/kalman-filter-and-smoother/</guid>
       <description></description>
     </item>
     
     <item>
       <title>marginal likelihood maximization</title>
-      <link>/tags/marginal-likelihood-maximization/</link>
+      <link>https://resumeRX.github.io/tags/marginal-likelihood-maximization/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/marginal-likelihood-maximization/</guid>
+      <guid>https://resumeRX.github.io/tags/marginal-likelihood-maximization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SURE</title>
-      <link>/tags/sure/</link>
+      <link>https://resumeRX.github.io/tags/sure/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/sure/</guid>
+      <guid>https://resumeRX.github.io/tags/sure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Day-To-Day</title>
-      <link>/tags/day-to-day/</link>
+      <link>https://resumeRX.github.io/tags/day-to-day/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/day-to-day/</guid>
+      <guid>https://resumeRX.github.io/tags/day-to-day/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Double Time</title>
-      <link>/tags/double-time/</link>
+      <link>https://resumeRX.github.io/tags/double-time/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/double-time/</guid>
+      <guid>https://resumeRX.github.io/tags/double-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Travel Time Distribution</title>
-      <link>/tags/dynamic-travel-time-distribution/</link>
+      <link>https://resumeRX.github.io/tags/dynamic-travel-time-distribution/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/dynamic-travel-time-distribution/</guid>
+      <guid>https://resumeRX.github.io/tags/dynamic-travel-time-distribution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scale Dynamics</title>
-      <link>/tags/scale-dynamics/</link>
+      <link>https://resumeRX.github.io/tags/scale-dynamics/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/scale-dynamics/</guid>
+      <guid>https://resumeRX.github.io/tags/scale-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traffic Network Resilience</title>
-      <link>/tags/traffic-network-resilience/</link>
+      <link>https://resumeRX.github.io/tags/traffic-network-resilience/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/traffic-network-resilience/</guid>
+      <guid>https://resumeRX.github.io/tags/traffic-network-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Within-Day</title>
-      <link>/tags/within-day/</link>
+      <link>https://resumeRX.github.io/tags/within-day/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/within-day/</guid>
+      <guid>https://resumeRX.github.io/tags/within-day/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capacity Variation</title>
-      <link>/tags/capacity-variation/</link>
+      <link>https://resumeRX.github.io/tags/capacity-variation/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/capacity-variation/</guid>
+      <guid>https://resumeRX.github.io/tags/capacity-variation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connected Automated Vehicle (CAV)</title>
-      <link>/tags/connected-automated-vehicle-cav/</link>
+      <link>https://resumeRX.github.io/tags/connected-automated-vehicle-cav/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/connected-automated-vehicle-cav/</guid>
+      <guid>https://resumeRX.github.io/tags/connected-automated-vehicle-cav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiclass Multilane Cell Transmission Model</title>
-      <link>/tags/multiclass-multilane-cell-transmission-model/</link>
+      <link>https://resumeRX.github.io/tags/multiclass-multilane-cell-transmission-model/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/multiclass-multilane-cell-transmission-model/</guid>
+      <guid>https://resumeRX.github.io/tags/multiclass-multilane-cell-transmission-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Penetration Rate</title>
-      <link>/tags/penetration-rate/</link>
+      <link>https://resumeRX.github.io/tags/penetration-rate/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/penetration-rate/</guid>
+      <guid>https://resumeRX.github.io/tags/penetration-rate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vehicle Automation And Communication System (VACS)</title>
-      <link>/tags/vehicle-automation-and-communication-system-vacs/</link>
+      <link>https://resumeRX.github.io/tags/vehicle-automation-and-communication-system-vacs/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/vehicle-automation-and-communication-system-vacs/</guid>
+      <guid>https://resumeRX.github.io/tags/vehicle-automation-and-communication-system-vacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delays</title>
-      <link>/tags/delays/</link>
+      <link>https://resumeRX.github.io/tags/delays/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/delays/</guid>
+      <guid>https://resumeRX.github.io/tags/delays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pricing</title>
-      <link>/tags/pricing/</link>
+      <link>https://resumeRX.github.io/tags/pricing/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/pricing/</guid>
+      <guid>https://resumeRX.github.io/tags/pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Road traffic control</title>
-      <link>/tags/road-traffic-control/</link>
+      <link>https://resumeRX.github.io/tags/road-traffic-control/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/road-traffic-control/</guid>
+      <guid>https://resumeRX.github.io/tags/road-traffic-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Road vehicles</title>
-      <link>/tags/road-vehicles/</link>
+      <link>https://resumeRX.github.io/tags/road-vehicles/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/road-vehicles/</guid>
+      <guid>https://resumeRX.github.io/tags/road-vehicles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-varying systems</title>
-      <link>/tags/time-varying-systems/</link>
+      <link>https://resumeRX.github.io/tags/time-varying-systems/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/time-varying-systems/</guid>
+      <guid>https://resumeRX.github.io/tags/time-varying-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vehicle routing</title>
-      <link>/tags/vehicle-routing/</link>
+      <link>https://resumeRX.github.io/tags/vehicle-routing/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/vehicle-routing/</guid>
+      <guid>https://resumeRX.github.io/tags/vehicle-routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control-Lyapunov Function</title>
-      <link>/tags/control-lyapunov-function/</link>
+      <link>https://resumeRX.github.io/tags/control-lyapunov-function/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/control-lyapunov-function/</guid>
+      <guid>https://resumeRX.github.io/tags/control-lyapunov-function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demand And Supply Uncertainty</title>
-      <link>/tags/demand-and-supply-uncertainty/</link>
+      <link>https://resumeRX.github.io/tags/demand-and-supply-uncertainty/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/demand-and-supply-uncertainty/</guid>
+      <guid>https://resumeRX.github.io/tags/demand-and-supply-uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Perimeter Control</title>
-      <link>/tags/robust-perimeter-control/</link>
+      <link>https://resumeRX.github.io/tags/robust-perimeter-control/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/robust-perimeter-control/</guid>
+      <guid>https://resumeRX.github.io/tags/robust-perimeter-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal Controller</title>
-      <link>/tags/universal-controller/</link>
+      <link>https://resumeRX.github.io/tags/universal-controller/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/universal-controller/</guid>
+      <guid>https://resumeRX.github.io/tags/universal-controller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Ramp Metering</title>
-      <link>/tags/adaptive-ramp-metering/</link>
+      <link>https://resumeRX.github.io/tags/adaptive-ramp-metering/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/adaptive-ramp-metering/</guid>
+      <guid>https://resumeRX.github.io/tags/adaptive-ramp-metering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell Transmission Model</title>
-      <link>/tags/cell-transmission-model/</link>
+      <link>https://resumeRX.github.io/tags/cell-transmission-model/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/cell-transmission-model/</guid>
+      <guid>https://resumeRX.github.io/tags/cell-transmission-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Optimization</title>
-      <link>/tags/robust-optimization/</link>
+      <link>https://resumeRX.github.io/tags/robust-optimization/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/robust-optimization/</guid>
+      <guid>https://resumeRX.github.io/tags/robust-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rolling Horizon</title>
-      <link>/tags/rolling-horizon/</link>
+      <link>https://resumeRX.github.io/tags/rolling-horizon/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/rolling-horizon/</guid>
+      <guid>https://resumeRX.github.io/tags/rolling-horizon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary Condition</title>
-      <link>/tags/boundary-condition/</link>
+      <link>https://resumeRX.github.io/tags/boundary-condition/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/boundary-condition/</guid>
+      <guid>https://resumeRX.github.io/tags/boundary-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controllability</title>
-      <link>/tags/controllability/</link>
+      <link>https://resumeRX.github.io/tags/controllability/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/controllability/</guid>
+      <guid>https://resumeRX.github.io/tags/controllability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasible And Admissible Demand</title>
-      <link>/tags/feasible-and-admissible-demand/</link>
+      <link>https://resumeRX.github.io/tags/feasible-and-admissible-demand/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/feasible-and-admissible-demand/</guid>
+      <guid>https://resumeRX.github.io/tags/feasible-and-admissible-demand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stability And Convergence</title>
-      <link>/tags/stability-and-convergence/</link>
+      <link>https://resumeRX.github.io/tags/stability-and-convergence/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/stability-and-convergence/</guid>
+      <guid>https://resumeRX.github.io/tags/stability-and-convergence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptiveness To Traffic Incident</title>
-      <link>/tags/adaptiveness-to-traffic-incident/</link>
+      <link>https://resumeRX.github.io/tags/adaptiveness-to-traffic-incident/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/adaptiveness-to-traffic-incident/</guid>
+      <guid>https://resumeRX.github.io/tags/adaptiveness-to-traffic-incident/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Principal Component Analysis (FPCA)</title>
-      <link>/tags/functional-principal-component-analysis-fpca/</link>
+      <link>https://resumeRX.github.io/tags/functional-principal-component-analysis-fpca/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-principal-component-analysis-fpca/</guid>
+      <guid>https://resumeRX.github.io/tags/functional-principal-component-analysis-fpca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Computing</title>
-      <link>/tags/parallel-computing/</link>
+      <link>https://resumeRX.github.io/tags/parallel-computing/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/parallel-computing/</guid>
+      <guid>https://resumeRX.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Nested Delay Operator</title>
-      <link>/tags/probabilistic-nested-delay-operator/</link>
+      <link>https://resumeRX.github.io/tags/probabilistic-nested-delay-operator/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/probabilistic-nested-delay-operator/</guid>
+      <guid>https://resumeRX.github.io/tags/probabilistic-nested-delay-operator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel Time Prediction</title>
-      <link>/tags/travel-time-prediction/</link>
+      <link>https://resumeRX.github.io/tags/travel-time-prediction/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/travel-time-prediction/</guid>
+      <guid>https://resumeRX.github.io/tags/travel-time-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freeway Traffic</title>
-      <link>/tags/freeway-traffic/</link>
+      <link>https://resumeRX.github.io/tags/freeway-traffic/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/freeway-traffic/</guid>
+      <guid>https://resumeRX.github.io/tags/freeway-traffic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Input Constraints</title>
-      <link>/tags/input-constraints/</link>
+      <link>https://resumeRX.github.io/tags/input-constraints/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/input-constraints/</guid>
+      <guid>https://resumeRX.github.io/tags/input-constraints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iterative Learning Control (ILC)</title>
-      <link>/tags/iterative-learning-control-ilc/</link>
+      <link>https://resumeRX.github.io/tags/iterative-learning-control-ilc/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/iterative-learning-control-ilc/</guid>
+      <guid>https://resumeRX.github.io/tags/iterative-learning-control-ilc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonlinear Switched Discrete-Time Systems</title>
-      <link>/tags/nonlinear-switched-discrete-time-systems/</link>
+      <link>https://resumeRX.github.io/tags/nonlinear-switched-discrete-time-systems/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/nonlinear-switched-discrete-time-systems/</guid>
+      <guid>https://resumeRX.github.io/tags/nonlinear-switched-discrete-time-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bus Service Reliability</title>
-      <link>/tags/bus-service-reliability/</link>
+      <link>https://resumeRX.github.io/tags/bus-service-reliability/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/bus-service-reliability/</guid>
+      <guid>https://resumeRX.github.io/tags/bus-service-reliability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hamilton-Jacobi Formulation</title>
-      <link>/tags/hamilton-jacobi-formulation/</link>
+      <link>https://resumeRX.github.io/tags/hamilton-jacobi-formulation/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/hamilton-jacobi-formulation/</guid>
+      <guid>https://resumeRX.github.io/tags/hamilton-jacobi-formulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinematic Wave Model</title>
-      <link>/tags/kinematic-wave-model/</link>
+      <link>https://resumeRX.github.io/tags/kinematic-wave-model/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/kinematic-wave-model/</guid>
+      <guid>https://resumeRX.github.io/tags/kinematic-wave-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Objective Optimal Control</title>
-      <link>/tags/multi-objective-optimal-control/</link>
+      <link>https://resumeRX.github.io/tags/multi-objective-optimal-control/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/multi-objective-optimal-control/</guid>
+      <guid>https://resumeRX.github.io/tags/multi-objective-optimal-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transit Signal Priority</title>
-      <link>/tags/transit-signal-priority/</link>
+      <link>https://resumeRX.github.io/tags/transit-signal-priority/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/transit-signal-priority/</guid>
+      <guid>https://resumeRX.github.io/tags/transit-signal-priority/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive control</title>
-      <link>/tags/adaptive-control/</link>
+      <link>https://resumeRX.github.io/tags/adaptive-control/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/adaptive-control/</guid>
+      <guid>https://resumeRX.github.io/tags/adaptive-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms</title>
-      <link>/tags/algorithms/</link>
+      <link>https://resumeRX.github.io/tags/algorithms/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/algorithms/</guid>
+      <guid>https://resumeRX.github.io/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expressways</title>
-      <link>/tags/expressways/</link>
+      <link>https://resumeRX.github.io/tags/expressways/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/expressways/</guid>
+      <guid>https://resumeRX.github.io/tags/expressways/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting</title>
-      <link>/tags/forecasting/</link>
+      <link>https://resumeRX.github.io/tags/forecasting/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/forecasting/</guid>
+      <guid>https://resumeRX.github.io/tags/forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freeways</title>
-      <link>/tags/freeways/</link>
+      <link>https://resumeRX.github.io/tags/freeways/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/freeways/</guid>
+      <guid>https://resumeRX.github.io/tags/freeways/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical prediction</title>
-      <link>/tags/mathematical-prediction/</link>
+      <link>https://resumeRX.github.io/tags/mathematical-prediction/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/mathematical-prediction/</guid>
+      <guid>https://resumeRX.github.io/tags/mathematical-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization</title>
-      <link>/tags/optimization/</link>
+      <link>https://resumeRX.github.io/tags/optimization/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/optimization/</guid>
+      <guid>https://resumeRX.github.io/tags/optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance measurement</title>
-      <link>/tags/performance-measurement/</link>
+      <link>https://resumeRX.github.io/tags/performance-measurement/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/performance-measurement/</guid>
+      <guid>https://resumeRX.github.io/tags/performance-measurement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ramp metering</title>
-      <link>/tags/ramp-metering/</link>
+      <link>https://resumeRX.github.io/tags/ramp-metering/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/ramp-metering/</guid>
+      <guid>https://resumeRX.github.io/tags/ramp-metering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real time information</title>
-      <link>/tags/real-time-information/</link>
+      <link>https://resumeRX.github.io/tags/real-time-information/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/real-time-information/</guid>
+      <guid>https://resumeRX.github.io/tags/real-time-information/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traffic flow</title>
-      <link>/tags/traffic-flow/</link>
+      <link>https://resumeRX.github.io/tags/traffic-flow/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/traffic-flow/</guid>
+      <guid>https://resumeRX.github.io/tags/traffic-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traffic incidents</title>
-      <link>/tags/traffic-incidents/</link>
+      <link>https://resumeRX.github.io/tags/traffic-incidents/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/traffic-incidents/</guid>
+      <guid>https://resumeRX.github.io/tags/traffic-incidents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel time</title>
-      <link>/tags/travel-time/</link>
+      <link>https://resumeRX.github.io/tags/travel-time/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/travel-time/</guid>
+      <guid>https://resumeRX.github.io/tags/travel-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lane Specific Fundamental Diagram</title>
-      <link>/tags/lane-specific-fundamental-diagram/</link>
+      <link>https://resumeRX.github.io/tags/lane-specific-fundamental-diagram/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/lane-specific-fundamental-diagram/</guid>
+      <guid>https://resumeRX.github.io/tags/lane-specific-fundamental-diagram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mandatory Lane Changing Demand Estimation</title>
-      <link>/tags/mandatory-lane-changing-demand-estimation/</link>
+      <link>https://resumeRX.github.io/tags/mandatory-lane-changing-demand-estimation/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/mandatory-lane-changing-demand-estimation/</guid>
+      <guid>https://resumeRX.github.io/tags/mandatory-lane-changing-demand-estimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mesoscopic Multilane Traffic Model</title>
-      <link>/tags/mesoscopic-multilane-traffic-model/</link>
+      <link>https://resumeRX.github.io/tags/mesoscopic-multilane-traffic-model/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/mesoscopic-multilane-traffic-model/</guid>
+      <guid>https://resumeRX.github.io/tags/mesoscopic-multilane-traffic-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimum Gap Acceptance Criterion</title>
-      <link>/tags/minimum-gap-acceptance-criterion/</link>
+      <link>https://resumeRX.github.io/tags/minimum-gap-acceptance-criterion/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/minimum-gap-acceptance-criterion/</guid>
+      <guid>https://resumeRX.github.io/tags/minimum-gap-acceptance-criterion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Car-Following Model</title>
-      <link>/tags/car-following-model/</link>
+      <link>https://resumeRX.github.io/tags/car-following-model/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/car-following-model/</guid>
+      <guid>https://resumeRX.github.io/tags/car-following-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Entropy Method</title>
-      <link>/tags/cross-entropy-method/</link>
+      <link>https://resumeRX.github.io/tags/cross-entropy-method/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/cross-entropy-method/</guid>
+      <guid>https://resumeRX.github.io/tags/cross-entropy-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kullback–Leibler Distance</title>
-      <link>/tags/kullbackleibler-distance/</link>
+      <link>https://resumeRX.github.io/tags/kullbackleibler-distance/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/kullbackleibler-distance/</guid>
+      <guid>https://resumeRX.github.io/tags/kullbackleibler-distance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Calibration</title>
-      <link>/tags/model-calibration/</link>
+      <link>https://resumeRX.github.io/tags/model-calibration/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/model-calibration/</guid>
+      <guid>https://resumeRX.github.io/tags/model-calibration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Sensitivity Analysis</title>
-      <link>/tags/probabilistic-sensitivity-analysis/</link>
+      <link>https://resumeRX.github.io/tags/probabilistic-sensitivity-analysis/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/probabilistic-sensitivity-analysis/</guid>
+      <guid>https://resumeRX.github.io/tags/probabilistic-sensitivity-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative Entropy</title>
-      <link>/tags/relative-entropy/</link>
+      <link>https://resumeRX.github.io/tags/relative-entropy/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/relative-entropy/</guid>
+      <guid>https://resumeRX.github.io/tags/relative-entropy/</guid>
       <description></description>
     </item>
     

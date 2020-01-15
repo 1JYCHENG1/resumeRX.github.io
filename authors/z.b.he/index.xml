@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z.B.He | 钟任新 · 学术主页</title>
-    <link>/authors/z.b.he/</link>
-      <atom:link href="/authors/z.b.he/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/authors/z.b.he/</link>
+      <atom:link href="https://resumeRX.github.io/authors/z.b.he/index.xml" rel="self" type="application/rss+xml" />
     <description>Z.B.He</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Z.B.He</title>
-      <link>/authors/z.b.he/</link>
+      <link>https://resumeRX.github.io/authors/z.b.he/</link>
     </image>
     
     <item>
       <title>A dynamic user equilibrium model for multi-region macroscopic fundamental diagram systems with time-varying delays</title>
-      <link>/publication/a-dynamic-user-equilibrium/</link>
+      <link>https://resumeRX.github.io/publication/a-dynamic-user-equilibrium/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/a-dynamic-user-equilibrium/</guid>
+      <guid>https://resumeRX.github.io/publication/a-dynamic-user-equilibrium/</guid>
       <description></description>
     </item>
     

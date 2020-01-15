@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianshi Chen | 钟任新 · 学术主页</title>
-    <link>/authors/tianshi-chen/</link>
-      <atom:link href="/authors/tianshi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/authors/tianshi-chen/</link>
+      <atom:link href="https://resumeRX.github.io/authors/tianshi-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianshi Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tianshi Chen</title>
-      <link>/authors/tianshi-chen/</link>
+      <link>https://resumeRX.github.io/authors/tianshi-chen/</link>
     </image>
     
     <item>
       <title>Recursive Implementation of Gaussian Process Regression for Spatial-Temporal Data Modeling</title>
-      <link>/publication/recursive-implementation-of-gaussian-process-regression/</link>
+      <link>https://resumeRX.github.io/publication/recursive-implementation-of-gaussian-process-regression/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/recursive-implementation-of-gaussian-process-regression/</guid>
+      <guid>https://resumeRX.github.io/publication/recursive-implementation-of-gaussian-process-regression/</guid>
       <description></description>
     </item>
     

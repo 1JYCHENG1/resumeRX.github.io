@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramp metering | 钟任新 · 学术主页</title>
-    <link>/tags/ramp-metering/</link>
-      <atom:link href="/tags/ramp-metering/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/tags/ramp-metering/</link>
+      <atom:link href="https://resumeRX.github.io/tags/ramp-metering/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramp metering</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ramp metering</title>
-      <link>/tags/ramp-metering/</link>
+      <link>https://resumeRX.github.io/tags/ramp-metering/</link>
     </image>
     
     <item>
       <title>Adaptive Ramp Control for Motorways and its Performance Analysis with Respect to Traffic Variability</title>
-      <link>/publication/adaptive-ramp-control-for-motorways/</link>
+      <link>https://resumeRX.github.io/publication/adaptive-ramp-control-for-motorways/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/adaptive-ramp-control-for-motorways/</guid>
+      <guid>https://resumeRX.github.io/publication/adaptive-ramp-control-for-motorways/</guid>
       <description></description>
     </item>
     

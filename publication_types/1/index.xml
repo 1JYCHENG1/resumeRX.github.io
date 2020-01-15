@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | 钟任新 · 学术主页</title>
-    <link>/publication_types/1/</link>
-      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/publication_types/1/</link>
+      <atom:link href="https://resumeRX.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>https://resumeRX.github.io/publication_types/1/</link>
     </image>
     
     <item>
       <title>A neuro-dynamic programming approach for perimeter control of two urban regions with macroscopic fundamental diagrams</title>
-      <link>/publication/a-neuro-dynamic-programming-approach/</link>
+      <link>https://resumeRX.github.io/publication/a-neuro-dynamic-programming-approach/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/a-neuro-dynamic-programming-approach/</guid>
+      <guid>https://resumeRX.github.io/publication/a-neuro-dynamic-programming-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recursive Implementation of Gaussian Process Regression for Spatial-Temporal Data Modeling</title>
-      <link>/publication/recursive-implementation-of-gaussian-process-regression/</link>
+      <link>https://resumeRX.github.io/publication/recursive-implementation-of-gaussian-process-regression/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/recursive-implementation-of-gaussian-process-regression/</guid>
+      <guid>https://resumeRX.github.io/publication/recursive-implementation-of-gaussian-process-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling double time-scale travel time processes with application to assessing the resilience of transportation systems</title>
-      <link>/publication/modeling-double-time-scale-trave-time/</link>
+      <link>https://resumeRX.github.io/publication/modeling-double-time-scale-trave-time/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/modeling-double-time-scale-trave-time/</guid>
+      <guid>https://resumeRX.github.io/publication/modeling-double-time-scale-trave-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An optimal control framework for multi-region macroscopic fundamental diagram systems with time delay, considering route choice and departure time choice</title>
-      <link>/publication/an-optimal-control-framework-for-multi-region/</link>
+      <link>https://resumeRX.github.io/publication/an-optimal-control-framework-for-multi-region/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/an-optimal-control-framework-for-multi-region/</guid>
+      <guid>https://resumeRX.github.io/publication/an-optimal-control-framework-for-multi-region/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A probabilistic sensitivity analysis guided cross entropy method for efficient calibration of traffic models</title>
-      <link>/publication/a-probabilistic-sensitivity-analysis-guided/</link>
+      <link>https://resumeRX.github.io/publication/a-probabilistic-sensitivity-analysis-guided/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/a-probabilistic-sensitivity-analysis-guided/</guid>
+      <guid>https://resumeRX.github.io/publication/a-probabilistic-sensitivity-analysis-guided/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effect of connected automated vehicles on macroscopic fundamental diagram of freeway traffic</title>
-      <link>/publication/the-effect-of-connected-automated-vehicles/</link>
+      <link>https://resumeRX.github.io/publication/the-effect-of-connected-automated-vehicles/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/the-effect-of-connected-automated-vehicles/</guid>
+      <guid>https://resumeRX.github.io/publication/the-effect-of-connected-automated-vehicles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Ramp Control for Motorways and its Performance Analysis with Respect to Traffic Variability</title>
-      <link>/publication/adaptive-ramp-control-for-motorways/</link>
+      <link>https://resumeRX.github.io/publication/adaptive-ramp-control-for-motorways/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/adaptive-ramp-control-for-motorways/</guid>
+      <guid>https://resumeRX.github.io/publication/adaptive-ramp-control-for-motorways/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Online Travel Time Prediction Model Based on Functional Data Analysis</title>
-      <link>/publication/an-online-travel-time-prediction/</link>
+      <link>https://resumeRX.github.io/publication/an-online-travel-time-prediction/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/an-online-travel-time-prediction/</guid>
+      <guid>https://resumeRX.github.io/publication/an-online-travel-time-prediction/</guid>
       <description></description>
     </item>
     

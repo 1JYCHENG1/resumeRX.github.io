@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiachen Luo | 钟任新 · 学术主页</title>
-    <link>/authors/jiachen-luo/</link>
-      <atom:link href="/authors/jiachen-luo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/authors/jiachen-luo/</link>
+      <atom:link href="https://resumeRX.github.io/authors/jiachen-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiachen Luo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jiachen Luo</title>
-      <link>/authors/jiachen-luo/</link>
+      <link>https://resumeRX.github.io/authors/jiachen-luo/</link>
     </image>
     
     <item>
       <title>Modeling double time-scale travel time processes with application to assessing the resilience of transportation systems</title>
-      <link>/publication/modeling-double-time-scale-trave-time/</link>
+      <link>https://resumeRX.github.io/publication/modeling-double-time-scale-trave-time/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/modeling-double-time-scale-trave-time/</guid>
+      <guid>https://resumeRX.github.io/publication/modeling-double-time-scale-trave-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting journey time distribution with consideration to abnormal traffic conditions</title>
-      <link>/publication/forecasting-journey-time-distribution/</link>
+      <link>https://resumeRX.github.io/publication/forecasting-journey-time-distribution/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/forecasting-journey-time-distribution/</guid>
+      <guid>https://resumeRX.github.io/publication/forecasting-journey-time-distribution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Online Travel Time Prediction Model Based on Functional Data Analysis</title>
-      <link>/publication/an-online-travel-time-prediction/</link>
+      <link>https://resumeRX.github.io/publication/an-online-travel-time-prediction/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/an-online-travel-time-prediction/</guid>
+      <guid>https://resumeRX.github.io/publication/an-online-travel-time-prediction/</guid>
       <description></description>
     </item>
     

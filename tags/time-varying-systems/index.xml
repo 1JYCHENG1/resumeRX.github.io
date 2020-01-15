@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time-varying systems | 钟任新 · 学术主页</title>
-    <link>/tags/time-varying-systems/</link>
-      <atom:link href="/tags/time-varying-systems/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://resumeRX.github.io/tags/time-varying-systems/</link>
+      <atom:link href="https://resumeRX.github.io/tags/time-varying-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Time-varying systems</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Time-varying systems</title>
-      <link>/tags/time-varying-systems/</link>
+      <link>https://resumeRX.github.io/tags/time-varying-systems/</link>
     </image>
     
     <item>
       <title>An optimal control framework for multi-region macroscopic fundamental diagram systems with time delay, considering route choice and departure time choice</title>
-      <link>/publication/an-optimal-control-framework-for-multi-region/</link>
+      <link>https://resumeRX.github.io/publication/an-optimal-control-framework-for-multi-region/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/an-optimal-control-framework-for-multi-region/</guid>
+      <guid>https://resumeRX.github.io/publication/an-optimal-control-framework-for-multi-region/</guid>
       <description></description>
     </item>
     
