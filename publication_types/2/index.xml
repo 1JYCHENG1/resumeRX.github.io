@@ -101,10 +101,74 @@
     </item>
     
     <item>
-      <title>标题</title>
-      <link>https://resumeRX.github.io/publication/example-%E5%89%AF%E6%9C%AC-20/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://resumeRX.github.io/publication/example-%E5%89%AF%E6%9C%AC-20/</guid>
+      <title>A dynamic user equilibrium model for multi-region macroscopic fundamental diagram systems with time-varying delays</title>
+      <link>https://resumeRX.github.io/publication/automatic-calibration-of-fundamental-diagram/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/automatic-calibration-of-fundamental-diagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear complementarity system approach to macroscopic freeway traffic modelling uniqueness and convexity</title>
+      <link>https://resumeRX.github.io/publication/linear-complementarity-system-approach/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/linear-complementarity-system-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling car-following behaviour with lateral separation and overtaking expectation</title>
+      <link>https://resumeRX.github.io/publication/modelling-car-following-behaviour/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/modelling-car-following-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal and robust strategies for freeway traffic management under demand and supply uncertainties an overview and general theory</title>
+      <link>https://resumeRX.github.io/publication/optimal-and-robust-strategies-for-freeway-traffic-management/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/optimal-and-robust-strategies-for-freeway-traffic-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic stochastic journey time estimation and reliability analysis using stochastic cell transmission model Algorithm and case studies</title>
+      <link>https://resumeRX.github.io/publication/dynamic-stochastic-journey-time-estimation/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/dynamic-stochastic-journey-time-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-Term Traffic State Prediction Based on Temporal–Spatial Correlation</title>
+      <link>https://resumeRX.github.io/publication/short-term-traffic-state-prediction/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/short-term-traffic-state-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic marginal cost, access control, and pollution charge: a comparison of bottleneck and whole link models</title>
+      <link>https://resumeRX.github.io/publication/dynamic-marginal-cost-access-control/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/dynamic-marginal-cost-access-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic cell transmission model for traffic network with demand and supply uncertainties</title>
+      <link>https://resumeRX.github.io/publication/stochastic-cell-transmission-model/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/stochastic-cell-transmission-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic user equilibrium with side constraints for a traffic network Theoretical development and numerical solution algorithm</title>
+      <link>https://resumeRX.github.io/publication/dynamic-user-equilibrium-with-side/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/dynamic-user-equilibrium-with-side/</guid>
       <description></description>
     </item>
     

@@ -713,6 +713,41 @@
   </url>
   
   <url>
+    <loc>https://resumeRX.github.io/publication/a-real-time-travel-time-prediction/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/cai.-h./</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/chow.a/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/luo.-j./</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/sumalee.-a./</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/yuan.f./</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/zhong.-r./</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://resumeRX.github.io/tags/lane-specific-fundamental-diagram/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -735,6 +770,16 @@
   <url>
     <loc>https://resumeRX.github.io/publication/modeling-the-impacts-of-mandatory/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/bus-arrival-time-prediction-based-on-support/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/l.l.-deng/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -778,18 +823,403 @@
   </url>
   
   <url>
-    <loc>https://resumeRX.github.io/authors/%E4%BD%9C%E8%80%851/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+    <loc>https://resumeRX.github.io/publication/calibration-of-microscopic-traffic-model/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://resumeRX.github.io/authors/%E4%BD%9C%E8%80%852/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+    <loc>https://resumeRX.github.io/publication/automatic-calibration-of-fundamental-diagram/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://resumeRX.github.io/publication/example-%E5%89%AF%E6%9C%AC-20/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+    <loc>https://resumeRX.github.io/publication/a-fusion-method-based-on-functional/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/bo-li/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/c.j.-chen/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/calibration-and/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/car-following-behaviour/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/changjia-chen/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/complementarity-condition/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/convexity/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/f.f.-yuan/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/fundamental-diagram/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/l.c.-zhang/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/lateral-separation/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/least-square-ls/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/linear-complementarity-system-approach/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/linear-complementaritysystem/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/modelling-car-following-behaviour/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/nonlinear-programming/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/overtaking-expectation/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/p.y.-huang/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/ren-xin-zhong/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/sensitivity-analysis/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/sequential-quadratic-programming/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/t.l.-pan/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/the-cell-transmission-model-ctm/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/uniqueness/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/virtual-preceding-vehicle/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/w.b.-sun/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/y.m.-wang/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/z.-yang/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/z.c.-he/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/zhaocheng-he/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/steady-state-analysis-of-day-to-day-traffic/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/approximate-dynamic-programming/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/dynamic-pricing/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/optimal-and-robust-strategies-for-freeway-traffic-management/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/optimal-traffic-management/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/robustness/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/stochastic-dynamic-programming/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/dynamic-journey-travel-time-distribution/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/dynamic-stochastic-journey-time-estimation/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/nakorn-indra-payoong/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/nobuhiro-uno/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/probability-mass-function/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/relative-frequency/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/skewness/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/travel-time-reliability/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/computational-modeling/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/correlation/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/covariance-matrices/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/n.-indra-payoong/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/predictive-models/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/short-term-traffic-state-prediction/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/stochastic-processes/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/traffic-control/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/vectors/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/access-control/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/access-pricing/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/dynamic-marginal-cost/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/dynamic-marginal-cost-access-control/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/dynamic-system-optimum/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/pollution-charge/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/takuya-maruyama/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/vertical-queue-models/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/probabilistic-distribution/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/queue-length/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/signal-delay/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/spillback/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/stochastic-cell-transmission-model/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/stochastic-cell-transmission-model/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/traffic-density/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/dynamic-user-equilibrium-due/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/publication/dynamic-user-equilibrium-with-side/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/lagrange-multiplier/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/pontryagin-minimum-principle/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/authors/t.l.-friesz/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/traffic-assignment-with-side-constraint/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/traffic-management-and-control/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resumeRX.github.io/tags/traffic-volume-control/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

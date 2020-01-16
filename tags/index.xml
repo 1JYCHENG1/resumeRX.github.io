@@ -85,7 +85,7 @@
     </item>
     
     <item>
-      <title>Optimal control</title>
+      <title>Optimal Control</title>
       <link>https://resumeRX.github.io/tags/optimal-control/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://resumeRX.github.io/tags/optimal-control/</guid>
@@ -681,6 +681,406 @@
       <link>https://resumeRX.github.io/tags/relative-entropy/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://resumeRX.github.io/tags/relative-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration And</title>
+      <link>https://resumeRX.github.io/tags/calibration-and/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/calibration-and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Car-Following Behaviour</title>
+      <link>https://resumeRX.github.io/tags/car-following-behaviour/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/car-following-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complementarity Condition</title>
+      <link>https://resumeRX.github.io/tags/complementarity-condition/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/complementarity-condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convexity</title>
+      <link>https://resumeRX.github.io/tags/convexity/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/convexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Diagram</title>
+      <link>https://resumeRX.github.io/tags/fundamental-diagram/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/fundamental-diagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lateral Separation</title>
+      <link>https://resumeRX.github.io/tags/lateral-separation/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/lateral-separation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Least Square (LS)</title>
+      <link>https://resumeRX.github.io/tags/least-square-ls/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/least-square-ls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Complementaritysystem</title>
+      <link>https://resumeRX.github.io/tags/linear-complementaritysystem/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/linear-complementaritysystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Programming</title>
+      <link>https://resumeRX.github.io/tags/nonlinear-programming/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/nonlinear-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overtaking Expectation</title>
+      <link>https://resumeRX.github.io/tags/overtaking-expectation/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/overtaking-expectation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis</title>
+      <link>https://resumeRX.github.io/tags/sensitivity-analysis/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/sensitivity-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Quadratic Programming</title>
+      <link>https://resumeRX.github.io/tags/sequential-quadratic-programming/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/sequential-quadratic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cell Transmission Model (CTM)</title>
+      <link>https://resumeRX.github.io/tags/the-cell-transmission-model-ctm/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/the-cell-transmission-model-ctm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uniqueness</title>
+      <link>https://resumeRX.github.io/tags/uniqueness/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/uniqueness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Preceding Vehicle</title>
+      <link>https://resumeRX.github.io/tags/virtual-preceding-vehicle/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/virtual-preceding-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Dynamic Programming</title>
+      <link>https://resumeRX.github.io/tags/approximate-dynamic-programming/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/approximate-dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Pricing</title>
+      <link>https://resumeRX.github.io/tags/dynamic-pricing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/dynamic-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Traffic Management</title>
+      <link>https://resumeRX.github.io/tags/optimal-traffic-management/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/optimal-traffic-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness</title>
+      <link>https://resumeRX.github.io/tags/robustness/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Dynamic Programming</title>
+      <link>https://resumeRX.github.io/tags/stochastic-dynamic-programming/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/stochastic-dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Journey Travel Time Distribution</title>
+      <link>https://resumeRX.github.io/tags/dynamic-journey-travel-time-distribution/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/dynamic-journey-travel-time-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability Mass Function</title>
+      <link>https://resumeRX.github.io/tags/probability-mass-function/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/probability-mass-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative Frequency</title>
+      <link>https://resumeRX.github.io/tags/relative-frequency/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/relative-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skewness</title>
+      <link>https://resumeRX.github.io/tags/skewness/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/skewness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Time Reliability</title>
+      <link>https://resumeRX.github.io/tags/travel-time-reliability/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/travel-time-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Modeling</title>
+      <link>https://resumeRX.github.io/tags/computational-modeling/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/computational-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation</title>
+      <link>https://resumeRX.github.io/tags/correlation/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance Matrices</title>
+      <link>https://resumeRX.github.io/tags/covariance-matrices/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/covariance-matrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Models</title>
+      <link>https://resumeRX.github.io/tags/predictive-models/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/predictive-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Processes</title>
+      <link>https://resumeRX.github.io/tags/stochastic-processes/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/stochastic-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Control</title>
+      <link>https://resumeRX.github.io/tags/traffic-control/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/traffic-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vectors</title>
+      <link>https://resumeRX.github.io/tags/vectors/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Control</title>
+      <link>https://resumeRX.github.io/tags/access-control/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/access-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Pricing</title>
+      <link>https://resumeRX.github.io/tags/access-pricing/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/access-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Marginal Cost</title>
+      <link>https://resumeRX.github.io/tags/dynamic-marginal-cost/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/dynamic-marginal-cost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic System Optimum</title>
+      <link>https://resumeRX.github.io/tags/dynamic-system-optimum/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/dynamic-system-optimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pollution Charge</title>
+      <link>https://resumeRX.github.io/tags/pollution-charge/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/pollution-charge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertical Queue Models</title>
+      <link>https://resumeRX.github.io/tags/vertical-queue-models/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/vertical-queue-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Distribution</title>
+      <link>https://resumeRX.github.io/tags/probabilistic-distribution/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/probabilistic-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue Length</title>
+      <link>https://resumeRX.github.io/tags/queue-length/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/queue-length/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal Delay</title>
+      <link>https://resumeRX.github.io/tags/signal-delay/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/signal-delay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spillback</title>
+      <link>https://resumeRX.github.io/tags/spillback/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/spillback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Cell Transmission Model</title>
+      <link>https://resumeRX.github.io/tags/stochastic-cell-transmission-model/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/stochastic-cell-transmission-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Density</title>
+      <link>https://resumeRX.github.io/tags/traffic-density/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/traffic-density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic User Equilibrium (DUE)</title>
+      <link>https://resumeRX.github.io/tags/dynamic-user-equilibrium-due/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/dynamic-user-equilibrium-due/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagrange Multiplier</title>
+      <link>https://resumeRX.github.io/tags/lagrange-multiplier/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/lagrange-multiplier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pontryagin Minimum Principle</title>
+      <link>https://resumeRX.github.io/tags/pontryagin-minimum-principle/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/pontryagin-minimum-principle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Assignment With Side Constraint</title>
+      <link>https://resumeRX.github.io/tags/traffic-assignment-with-side-constraint/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/traffic-assignment-with-side-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Management And Control</title>
+      <link>https://resumeRX.github.io/tags/traffic-management-and-control/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/traffic-management-and-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Volume Control</title>
+      <link>https://resumeRX.github.io/tags/traffic-volume-control/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/tags/traffic-volume-control/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Indra-Payoong | 钟任新 · 学术主页</title>
+    <link>https://resumeRX.github.io/authors/n.-indra-payoong/</link>
+      <atom:link href="https://resumeRX.github.io/authors/n.-indra-payoong/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Indra-Payoong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N. Indra-Payoong</title>
+      <link>https://resumeRX.github.io/authors/n.-indra-payoong/</link>
+    </image>
+    
+    <item>
+      <title>Short-Term Traffic State Prediction Based on Temporal–Spatial Correlation</title>
+      <link>https://resumeRX.github.io/publication/short-term-traffic-state-prediction/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/short-term-traffic-state-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

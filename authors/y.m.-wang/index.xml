@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y.m. Wang | 钟任新 · 学术主页</title>
+    <link>https://resumeRX.github.io/authors/y.m.-wang/</link>
+      <atom:link href="https://resumeRX.github.io/authors/y.m.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y.m. Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.x Zhong. All rights reserved. </copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://resumeRX.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Y.m. Wang</title>
+      <link>https://resumeRX.github.io/authors/y.m.-wang/</link>
+    </image>
+    
+    <item>
+      <title>Modelling car-following behaviour with lateral separation and overtaking expectation</title>
+      <link>https://resumeRX.github.io/publication/modelling-car-following-behaviour/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://resumeRX.github.io/publication/modelling-car-following-behaviour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
